@@ -17329,6 +17329,25 @@ module.exports = [
       'REST',
     ],
   },
+    {
+    name: 'Diego FG',
+    description: 'IT professional / Software Engineering / Mentoring',
+    url: 'https://diegofg.glitch.me/',
+    twitter: '@',
+    emoji: '🧉',
+    country: '🇺🇾',
+    computer: 'apple',
+    phone: 'android',
+    tags: [
+      'PHP',
+      'Developer',
+      'Problem Solver',
+      'Teacher',
+      'Linux',
+      'MySQL',
+      'Raspberry',
+    ],
+  },
   {
     name: 'Manthan Ank',
     description:
